@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sohaibalam/Projects/perhapsagameengineidkandidc/example/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -g -std=gnu++20 -o CMakeFiles/example.dir/main.cpp.o -c /home/sohaibalam/Projects/perhapsagameengineidkandidc/example/main.cpp",
+  "file": "/home/sohaibalam/Projects/perhapsagameengineidkandidc/example/main.cpp"
+}
+]

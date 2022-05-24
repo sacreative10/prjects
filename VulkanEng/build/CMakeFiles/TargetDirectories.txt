@@ -1,0 +1,3 @@
+/home/sohaibalam/Projects/VulkanEng/build/CMakeFiles/VulkanEngine.dir
+/home/sohaibalam/Projects/VulkanEng/build/CMakeFiles/edit_cache.dir
+/home/sohaibalam/Projects/VulkanEng/build/CMakeFiles/rebuild_cache.dir

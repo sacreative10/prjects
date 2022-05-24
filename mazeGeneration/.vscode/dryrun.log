@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sohaibalam/Projects/mazeGeneration'
+make: Leaving directory '/home/sohaibalam/Projects/mazeGeneration'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 

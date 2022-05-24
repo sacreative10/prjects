@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/sohaibalam/Projects/VulkanEng/build",
+  "command": "/usr/lib/llvm/14/bin/clang++  -g -std=c++17 -g -o CMakeFiles/VulkanEngine.dir/src/VulkanEngineApp.cpp.o -c /home/sohaibalam/Projects/VulkanEng/src/VulkanEngineApp.cpp",
+  "file": "/home/sohaibalam/Projects/VulkanEng/src/VulkanEngineApp.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/VulkanEng/build",
+  "command": "/usr/lib/llvm/14/bin/clang++  -g -std=c++17 -g -o CMakeFiles/VulkanEngine.dir/src/VulkanEngineDevice.cpp.o -c /home/sohaibalam/Projects/VulkanEng/src/VulkanEngineDevice.cpp",
+  "file": "/home/sohaibalam/Projects/VulkanEng/src/VulkanEngineDevice.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/VulkanEng/build",
+  "command": "/usr/lib/llvm/14/bin/clang++  -g -std=c++17 -g -o CMakeFiles/VulkanEngine.dir/src/VulkanEnginePipeline.cpp.o -c /home/sohaibalam/Projects/VulkanEng/src/VulkanEnginePipeline.cpp",
+  "file": "/home/sohaibalam/Projects/VulkanEng/src/VulkanEnginePipeline.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/VulkanEng/build",
+  "command": "/usr/lib/llvm/14/bin/clang++  -g -std=c++17 -g -o CMakeFiles/VulkanEngine.dir/src/VulkanEngineSwapChain.cpp.o -c /home/sohaibalam/Projects/VulkanEng/src/VulkanEngineSwapChain.cpp",
+  "file": "/home/sohaibalam/Projects/VulkanEng/src/VulkanEngineSwapChain.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/VulkanEng/build",
+  "command": "/usr/lib/llvm/14/bin/clang++  -g -std=c++17 -g -o CMakeFiles/VulkanEngine.dir/src/VulkanEngineWindow.cpp.o -c /home/sohaibalam/Projects/VulkanEng/src/VulkanEngineWindow.cpp",
+  "file": "/home/sohaibalam/Projects/VulkanEng/src/VulkanEngineWindow.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/VulkanEng/build",
+  "command": "/usr/lib/llvm/14/bin/clang++  -g -std=c++17 -g -o CMakeFiles/VulkanEngine.dir/src/main.cpp.o -c /home/sohaibalam/Projects/VulkanEng/src/main.cpp",
+  "file": "/home/sohaibalam/Projects/VulkanEng/src/main.cpp"
+}
+]

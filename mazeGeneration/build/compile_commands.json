@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/sohaibalam/Projects/mazeGeneration/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -g -o CMakeFiles/MazeGeneration.dir/src/Renderer.cpp.o -c /home/sohaibalam/Projects/mazeGeneration/src/Renderer.cpp",
+  "file": "/home/sohaibalam/Projects/mazeGeneration/src/Renderer.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/mazeGeneration/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -g -o CMakeFiles/MazeGeneration.dir/src/mazeCell.cpp.o -c /home/sohaibalam/Projects/mazeGeneration/src/mazeCell.cpp",
+  "file": "/home/sohaibalam/Projects/mazeGeneration/src/mazeCell.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/mazeGeneration/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -g -o CMakeFiles/MazeGeneration.dir/src/Maze.cpp.o -c /home/sohaibalam/Projects/mazeGeneration/src/Maze.cpp",
+  "file": "/home/sohaibalam/Projects/mazeGeneration/src/Maze.cpp"
+},
+{
+  "directory": "/home/sohaibalam/Projects/mazeGeneration/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -g -o CMakeFiles/MazeGeneration.dir/src/MazeGeneration.cpp.o -c /home/sohaibalam/Projects/mazeGeneration/src/MazeGeneration.cpp",
+  "file": "/home/sohaibalam/Projects/mazeGeneration/src/MazeGeneration.cpp"
+}
+]

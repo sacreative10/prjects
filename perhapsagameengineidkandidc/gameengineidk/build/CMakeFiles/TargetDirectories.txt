@@ -1,0 +1,7 @@
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build/CMakeFiles/gameengineidk.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build/CMakeFiles/edit_cache.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build/CMakeFiles/rebuild_cache.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build/CMakeFiles/list_install_components.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build/CMakeFiles/install.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build/CMakeFiles/install/local.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build/CMakeFiles/install/strip.dir

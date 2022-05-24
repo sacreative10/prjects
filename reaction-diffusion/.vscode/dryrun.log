@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/sohaibalam/Projects/reaction-diffusion'
+g++ -c src/main.cpp
+g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system -pthread
+make: Leaving directory '/home/sohaibalam/Projects/reaction-diffusion'
+ 

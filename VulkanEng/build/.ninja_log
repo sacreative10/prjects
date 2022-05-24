@@ -1,0 +1,7 @@
+# ninja log v5
+0	857	1652467168466842416	CMakeFiles/VulkanEngine.dir/src/VulkanEngineDevice.cpp.o	b51cc248f9ba2cce
+0	437	1652467168052842434	CMakeFiles/VulkanEngine.dir/src/main.cpp.o	b45d17318e52e584
+0	572	1652467168188842428	CMakeFiles/VulkanEngine.dir/src/VulkanEnginePipeline.cpp.o	1d01954bf9cad9f3
+0	316	1652467167928842439	CMakeFiles/VulkanEngine.dir/src/VulkanEngineWindow.cpp.o	4bab28828264cbfd
+857	966	1652467168582842411	VulkanEngine	ea21e5e1b8cea353
+0	449	1652467168064842433	CMakeFiles/VulkanEngine.dir/src/VulkanEngineApp.cpp.o	95e1e2f7688fb265

@@ -1,0 +1,7 @@
+# ninja log v5
+808	933	1648500755842151419	MazeGeneration	9c6e690a644731a7
+1	808	1648500755714151412	CMakeFiles/MazeGeneration.dir/src/MazeGeneration.cpp.o	8a0a6411f9e99ea8
+1	442	1648499633621091486	CMakeFiles/MazeGeneration.dir/src/mazeCell.cpp.o	9a9bfb24716f0b7b
+1	393	1648499633572091484	CMakeFiles/MazeGeneration.dir/src/Renderer.cpp.o	920d254bcd0cad80
+1	512	1648500755419151397	CMakeFiles/MazeGeneration.dir/src/Maze.cpp.o	d06600507b92506d
+0	4	0	clean	a31eedcededa8236

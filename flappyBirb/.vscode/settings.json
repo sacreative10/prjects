@@ -1,0 +1,18 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/sohaibalam/Projects/flappyBirb",
+            "binaryPath": "/home/sohaibalam/Projects/flappyBirb/FlappyBirb",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "eigen": "cpp",
+        "sparse": "cpp",
+        "dense": "cpp",
+        "eigenvalues": "cpp",
+        "cholesky": "cpp"
+    }
+}

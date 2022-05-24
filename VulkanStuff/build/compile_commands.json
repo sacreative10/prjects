@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sohaibalam/Projects/VulkanStuff/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -DDEBUG -g -std=gnu++17 -o CMakeFiles/VulkanStuff.dir/main.cpp.o -c /home/sohaibalam/Projects/VulkanStuff/main.cpp",
+  "file": "/home/sohaibalam/Projects/VulkanStuff/main.cpp"
+}
+]

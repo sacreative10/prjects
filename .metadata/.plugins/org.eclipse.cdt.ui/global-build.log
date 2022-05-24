@@ -1,0 +1,12 @@
+21:08:05 **** Build of configuration Debug for project againtesting ****
+make all 
+Building file: ../src/againtesting.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/againtesting.d" -MT"src/againtesting.o" -o "src/againtesting.o" "../src/againtesting.cpp"
+Finished building: ../src/againtesting.cpp
+ 
+Building target: againtesting
+Invoking: GCC C++ Linker
+g++  -o "againtesting" ./src/againtesting.o   
+Finished building target: againtesting
+ 

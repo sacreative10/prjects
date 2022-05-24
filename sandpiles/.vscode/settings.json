@@ -1,0 +1,11 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/sohaibalam/Projects/sandpiles",
+            "binaryPath": "/home/sohaibalam/Projects/sandpiles/sandpile",
+            "binaryArgs": []
+        }
+    ]
+}

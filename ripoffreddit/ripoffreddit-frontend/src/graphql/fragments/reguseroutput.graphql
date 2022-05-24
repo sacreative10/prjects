@@ -1,0 +1,4 @@
+fragment reguseroutput on User {
+  id 
+  username
+}

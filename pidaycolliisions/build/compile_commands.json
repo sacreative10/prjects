@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sohaibalam/Projects/pidaycolliisions/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -g -o CMakeFiles/pidaycollisions.dir/src/main.cpp.o -c /home/sohaibalam/Projects/pidaycolliisions/src/main.cpp",
+  "file": "/home/sohaibalam/Projects/pidaycolliisions/src/main.cpp"
+}
+]

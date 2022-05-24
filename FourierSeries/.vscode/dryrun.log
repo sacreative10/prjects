@@ -1,0 +1,6 @@
+make FourierSeries --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sohaibalam/Projects/FourierSeries'
+clang++ -g  -c -O3 src/main.cpp -o bin/main.o
+clang++ -g  bin/main.o -lsfml-graphics -lsfml-window -lsfml-system -o bin/FourierSeries
+make: Leaving directory '/home/sohaibalam/Projects/FourierSeries'
+ 

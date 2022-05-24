@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/sohaibalam/Projects/VulkanEng'
+make: Leaving directory '/home/sohaibalam/Projects/VulkanEng'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

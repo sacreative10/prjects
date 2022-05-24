@@ -1,0 +1,70 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk",
+			"paths" : 
+			[
+				"libgameengineidk.so.0.1.0",
+				"libgameengineidk.so.1"
+			],
+			"targetId" : "gameengineidk::@6890427a1f51a3e7e1df",
+			"targetIndex" : 0,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk",
+			"paths" : 
+			[
+				"libgameengineidk.so"
+			],
+			"targetId" : "gameengineidk::@6890427a1f51a3e7e1df",
+			"targetIndex" : 0,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk",
+			"paths" : 
+			[
+				"src/include/gameengineidk.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

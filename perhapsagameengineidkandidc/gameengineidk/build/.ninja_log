@@ -1,0 +1,6 @@
+# ninja log v5
+435	438	1649020265328730257	libgameengineidk.so	a657816fdc0094a6
+435	438	1649020265328730257	libgameengineidk.so.1	a657816fdc0094a6
+367	434	1649020265328730257	libgameengineidk.so.0.1.0	e423c0b1ce7ab1ba
+0	367	1649020265261730253	CMakeFiles/gameengineidk.dir/src/gameengineidk.cpp.o	5dec4f4aa3034aa6
+0	4	0	CMakeFiles/install.util	5017ead0c025c6cd

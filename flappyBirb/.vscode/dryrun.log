@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sohaibalam/Projects/flappyBirb'
+clang++ -g -O3 -std=c++20 -c src/NeuralNetwork.cpp
+clang++ -g -O3 -std=c++20 -c -o Bird.o src/Bird.cpp
+clang++ -g -O3 -std=c++20 -c -o Pipe.o src/Pipe.cpp
+clang++ -g -O3 -std=c++20 -c -o main.o src/main.cpp
+clang++ -g -O3 -std=c++20 -o FlappyBirb  NeuralNetwork.o Bird.o Pipe.o main.o -lsfml-graphics -lsfml-window -lsfml-system
+make: Leaving directory '/home/sohaibalam/Projects/flappyBirb'
+ 

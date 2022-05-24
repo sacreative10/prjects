@@ -1,0 +1,5 @@
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/example/build/CMakeFiles/example.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/example/build/CMakeFiles/package.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/example/build/CMakeFiles/package_source.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/example/build/CMakeFiles/edit_cache.dir
+/home/sohaibalam/Projects/perhapsagameengineidkandidc/example/build/CMakeFiles/rebuild_cache.dir

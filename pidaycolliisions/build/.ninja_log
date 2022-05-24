@@ -1,0 +1,4 @@
+# ninja log v5
+355	436	1648833879647986905	pidaycollisions	14043aa7ef7f1b5d
+0	239	1648751112902292162	CMakeFiles/pidaycollisions.dir/main.cpp.o	f0821de87496b06a
+0	355	1648833879565986909	CMakeFiles/pidaycollisions.dir/src/main.cpp.o	3613d4b8f22e1e70

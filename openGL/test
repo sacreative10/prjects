@@ -1,0 +1,122 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.016  000.016: --- NVIM STARTING ---
+000.433  000.418: locale set
+000.905  000.472: inits 1
+000.929  000.024: window checked
+006.638  005.709: parsing arguments
+006.808  000.170: expanding arguments
+006.834  000.026: inits 2
+007.237  000.403: init highlight
+007.239  000.002: waiting for UI
+007.892  000.654: done waiting for UI
+007.904  000.011: init screen for UI
+007.922  000.018: init default mappings
+008.012  000.090: init default autocommands
+008.135  000.100  000.100: sourcing /etc/vim/sysinit.vim
+010.021  001.381  001.381: sourcing /home/sohaibalam/.local/share/nvim/site/autoload/plug.vim
+012.420  000.035  000.035: sourcing /home/sohaibalam/.local/share/nvim/plugged/rust.vim/ftdetect/rust.vim
+013.612  000.020  000.020: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/filetype.nvim/filetype.vim
+013.658  000.010  000.010: sourcing /usr/share/nvim/runtime/filetype.vim
+013.777  000.024  000.024: sourcing /usr/share/nvim/runtime/ftplugin.vim
+013.890  000.021  000.021: sourcing /usr/share/nvim/runtime/indent.vim
+014.090  000.065  000.065: sourcing /usr/share/nvim/runtime/syntax/synload.vim
+014.168  000.248  000.183: sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+015.140  000.074  000.074: sourcing /home/sohaibalam/.local/share/nvim/plugged/onedark.vim/autoload/onedark.vim
+030.636  016.403  016.329: sourcing /home/sohaibalam/.local/share/nvim/plugged/onedark.vim/colors/onedark.vim
+037.490  029.337  011.195: sourcing /home/sohaibalam/.config/nvim/init.vim
+037.498  000.049: sourcing vimrc file(s)
+038.040  000.234  000.234: sourcing /home/sohaibalam/.local/share/nvim/plugged/auto-pairs/plugin/auto-pairs.vim
+038.737  000.071  000.071: sourcing /home/sohaibalam/.local/share/nvim/plugged/coc.nvim/autoload/coc/rpc.vim
+039.090  000.318  000.318: sourcing /home/sohaibalam/.local/share/nvim/plugged/coc.nvim/autoload/coc/util.vim
+039.314  000.107  000.107: sourcing /home/sohaibalam/.local/share/nvim/plugged/coc.nvim/autoload/coc/client.vim
+041.690  003.598  003.102: sourcing /home/sohaibalam/.local/share/nvim/plugged/coc.nvim/plugin/coc.vim
+041.829  000.019  000.019: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-processing/plugin/processing.vim
+041.916  000.047  000.047: sourcing /home/sohaibalam/.local/share/nvim/plugged/rainbow/plugin/rainbow_main.vim
+041.995  000.040  000.040: sourcing /home/sohaibalam/.local/share/nvim/plugged/nvim-web-devicons/plugin/nvim-web-devicons.vim
+042.586  000.333  000.333: sourcing /home/sohaibalam/.local/share/nvim/plugged/copilot.vim/autoload/copilot.vim
+042.628  000.579  000.246: sourcing /home/sohaibalam/.local/share/nvim/plugged/copilot.vim/plugin/copilot.vim
+042.803  000.100  000.100: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/plugin/vim-lsp-cxx-highlight.vim
+042.963  000.011  000.011: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/autoloclist.vim
+042.977  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/balloons.vim
+042.991  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/checker.vim
+043.009  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/cursor.vim
+043.023  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/highlighting.vim
+043.037  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/loclist.vim
+043.050  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/modemap.vim
+043.064  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/notifiers.vim
+043.078  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/registry.vim
+043.091  000.006  000.006: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/signs.vim
+043.469  000.260  000.260: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/autoload/syntastic/util.vim
+045.436  000.040  000.040: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/autoloclist.vim
+045.481  000.033  000.033: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/balloons.vim
+045.586  000.095  000.095: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/checker.vim
+045.643  000.046  000.046: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/cursor.vim
+045.698  000.044  000.044: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/highlighting.vim
+045.846  000.138  000.138: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/loclist.vim
+045.898  000.042  000.042: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/modemap.vim
+045.941  000.035  000.035: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/notifiers.vim
+046.147  000.198  000.198: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/registry.vim
+046.230  000.055  000.055: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic/signs.vim
+046.790  003.692  002.704: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/plugin/syntastic.vim
+047.323  000.449  000.449: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-clang-format/plugin/clang_format.vim
+047.541  000.116  000.116: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-rainbow/plugin/rainbow.vim
+047.857  000.250  000.250: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-prettier/plugin/prettier.vim
+048.247  000.188  000.188: sourcing /usr/share/nvim/runtime/plugin/gzip.vim
+048.282  000.013  000.013: sourcing /usr/share/nvim/runtime/plugin/health.vim
+048.359  000.065  000.065: sourcing /usr/share/nvim/runtime/plugin/man.vim
+048.896  000.238  000.238: sourcing /usr/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+048.999  000.627  000.389: sourcing /usr/share/nvim/runtime/plugin/matchit.vim
+049.201  000.183  000.183: sourcing /usr/share/nvim/runtime/plugin/matchparen.vim
+049.248  000.021  000.021: sourcing /usr/share/nvim/runtime/plugin/netrwPlugin.vim
+049.495  000.205  000.205: sourcing /usr/share/nvim/runtime/plugin/rplugin.vim
+049.643  000.121  000.121: sourcing /usr/share/nvim/runtime/plugin/shada.vim
+049.700  000.038  000.038: sourcing /usr/share/nvim/runtime/plugin/spellfile.vim
+049.841  000.127  000.127: sourcing /usr/share/nvim/runtime/plugin/tarPlugin.vim
+049.939  000.077  000.077: sourcing /usr/share/nvim/runtime/plugin/tohtml.vim
+049.977  000.022  000.022: sourcing /usr/share/nvim/runtime/plugin/tutor.vim
+050.136  000.150  000.150: sourcing /usr/share/nvim/runtime/plugin/zipPlugin.vim
+050.603  000.168  000.168: sourcing /home/sohaibalam/.local/share/nvim/plugged/nvim-tree.lua/plugin/nvim-tree-startup.lua
+051.075  002.384: loading rtp plugins
+055.757  004.367  004.367: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/LuaSnip/plugin/luasnip.vim
+056.377  000.279  000.279: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/dashboard-nvim/plugin/dashboard.vim
+057.955  001.434  001.434: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim/plugin/indent_blankline.vim
+058.106  000.025  000.025: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/nvim-web-devicons/plugin/nvim-web-devicons.vim
+058.232  000.045  000.045: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/plenary.nvim/plugin/plenary.vim
+058.374  000.061  000.061: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/vim-bbye/plugin/bbye.vim
+058.439  000.010  000.010: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/which-key.nvim/plugin/which-key.vim
+058.526  001.231: loading packages
+058.829  000.242  000.242: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/after/plugin/cmp_nvim_lsp.lua
+058.856  000.088: loading after plugins
+058.870  000.014: inits 3
+060.433  001.563: reading ShaDa
+060.809  000.115  000.115: sourcing /home/sohaibalam/.local/share/nvim/plugged/syntastic/autoload/syntastic/log.vim
+060.966  000.417: opening buffers
+061.783  000.060  000.060: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/autoload/lsp_cxx_hl/hl.vim
+061.949  000.923: BufEnter autocommands
+061.952  000.003: editing files in windows
+062.163  000.076  000.076: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/autoload/lsp_cxx_hl.vim
+062.267  000.052  000.052: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/autoload/lsp_cxx_hl/client/vim_lsp.vim
+062.458  000.026  000.026: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/autoload/lsp_cxx_hl/client/LanguageClient.vim
+062.645  000.024  000.024: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/autoload/lsp_cxx_hl/client/coc.vim
+062.780  000.105  000.105: sourcing /home/sohaibalam/.local/share/nvim/plugged/coc.nvim/autoload/coc.vim
+063.066  000.032  000.032: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/autoload/lsp_cxx_hl/client/nvim_lsp.vim
+069.886  000.124  000.124: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-lsp-cxx-highlight/syntax/lsp_cxx_highlight.vim
+070.094  000.086  000.086: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/dashboard-nvim/autoload/dashboard.vim
+074.726  000.065  000.065: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/dashboard-nvim/autoload/dashboard/utils.vim
+074.879  000.043  000.043: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/dashboard-nvim/autoload/dashboard/header.vim
+075.204  000.108  000.108: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/dashboard-nvim/autoload/dashboard/section.vim
+077.107  000.051  000.051: sourcing /home/sohaibalam/.local/share/nvim/site/pack/packer/start/dashboard-nvim/syntax/dashboard.vim
+077.570  000.089  000.089: sourcing /home/sohaibalam/.local/share/nvim/plugged/rainbow/autoload/rainbow_main.vim
+077.742  000.054  000.054: sourcing /home/sohaibalam/.local/share/nvim/plugged/rainbow/autoload/rainbow.vim
+080.984  000.395  000.395: sourcing /home/sohaibalam/.local/share/nvim/plugged/vim-clang-format/autoload/clang_format.vim
+081.558  018.277: VimEnter autocommands
+081.561  000.003: UIEnter autocommands
+081.562  000.001: before starting main loop
+083.853  002.259  002.259: sourcing /home/sohaibalam/.local/share/nvim/plugged/coc.nvim/autoload/coc/float.vim
+086.770  002.949: first screen update
+086.772  000.002: --- NVIM STARTED ---

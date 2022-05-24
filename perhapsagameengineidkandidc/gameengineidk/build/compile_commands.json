@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/build",
+  "command": "/usr/lib/llvm/14/bin/clang++ -Dgameengineidk_EXPORTS -g -fPIC -std=gnu++20 -o CMakeFiles/gameengineidk.dir/src/gameengineidk.cpp.o -c /home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/src/gameengineidk.cpp",
+  "file": "/home/sohaibalam/Projects/perhapsagameengineidkandidc/gameengineidk/src/gameengineidk.cpp"
+}
+]

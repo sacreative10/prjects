@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649107188 source:/home/sohaibalam/Projects/gameeng/gameengineidk/gameengineidk.cpp
+	"gameengineidk.h"
+	<iostream>
+
+1649107538 /home/sohaibalam/Projects/gameeng/gameengineidk/gameengineidk.h
+
