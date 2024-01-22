@@ -1,8 +1,0 @@
-# ninja log v5
-0	480	1648989031591062195	CMakeFiles/2DRayCasting.dir/src/renderer.cpp.o	c6e80ea8a345aacb
-0	832	1648997972521539693	CMakeFiles/2DRayCasting.dir/src/main.cpp.o	ff96700615b56c61
-794	890	1648994993944380619	2DRayCasting	a196f27e50112d7d
-1	825	1648998314514557957	CMakeFiles/2DRayCasting.dir/src/ray.cpp.o	ed80b6cb1371141f
-1	372	1648912980306336152	CMakeFiles/2DRayCasting.dir/src/Renderer.cpp.o	80b43cba7971d00a
-1	642	1648991518529195012	CMakeFiles/2DRayCasting.dir/src/wall.cpp.o	fe1141817c29ff15
-1	852	1648998314540557958	CMakeFiles/2DRayCasting.dir/src/object.cpp.o	bf1a83e469ecfa46
